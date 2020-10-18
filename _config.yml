@@ -1,0 +1,14 @@
+name: Ervins Jekyll Website
+title: Ervin Beta
+
+masthead_subheading: Developer - Aspiring Data Scientist
+about_info: I am Ervin Beta, currently a Software Engineer. I am passionate about programming and interested in Data Science. I find fascinating the idea of involving machines into the decision making process.
+about_hobbies: In my spare time I like movies, reading, spending time with my family, and whenever possible, practicing water sports.
+about_experience: I have a MSc in Data Science from Goldsmiths, University of London. In this program I have learned and applied the building blocks of machine learning, and statistical data mining. Previously graduated in Computer Science and have been working in the industry ever since.
+
+kramdown:
+ input: GFM
+ auto_ids: true
+ hard_wrap: false
+ syntax_highlighter: rouge
+
